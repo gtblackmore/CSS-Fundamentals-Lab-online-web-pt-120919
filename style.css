@@ -22,3 +22,7 @@ a {
 figcaption {
   font-size: smaller;
 }
+
+figcaption > p {
+  
+}
