@@ -23,6 +23,8 @@ figcaption {
   font-size: smaller;
 }
 
-section-id="featured-property" {
-  
+featured-property {
+  width: 800px;
+  text-align: center;
 }
+
